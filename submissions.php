@@ -2,10 +2,10 @@
 
 //connecting to database//
 //put your own details here//
-$host = 'sql111.epizy.com';
-$dbname = 'epiz_34038543_survey';
-$username = 'epiz_34038543';
-$password = 'LRXCPHVGpY';
+$host = 'sql305.epizy.com';
+$dbname = 'epiz_34039583_XXX';
+$username = 'epiz_34039583';
+$password = 'KgQ8qKplhGi9x';
 
 //use this order//
 $conn = mysqli_connect ($host, $username, $password, $dbname);
